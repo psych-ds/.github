@@ -4,4 +4,4 @@ To learn more about the Psych-DS project and get started creating datasets, chec
 
 Here is an explanation of the primary Psych-DS repositories:
 
-(TBA)
+(TBA, should match order/list of pinned repos that display immediately below)
