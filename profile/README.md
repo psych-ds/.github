@@ -1,7 +1,4 @@
 # Welcome to Psych-DS
-
-Psych-DS is a community data standard for research in psychology and other behavioral sciences
-
 To learn more about the Psych-DS project and to get started creating datasets, please visit [our website](http://psych-ds.github.io).
 
 To see what we've been building, check out any of our core repositories below:
