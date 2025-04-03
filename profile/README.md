@@ -28,4 +28,4 @@ A collection of Psych-DS compliant datasets that serve as references and templat
 ### [psychds-docs](https://github.com/psych-ds/psychds-docs)
 Source for our (readthedocs) documentation website, built with MkDocs.
 
-[_Available here:_]([https://psych-ds.github.io/validator/](https://psychds-docs.readthedocs.io/en/latest/)
+[_Available here:_](https://psychds-docs.readthedocs.io/en/latest/)
