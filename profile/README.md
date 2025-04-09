@@ -29,3 +29,6 @@ A collection of Psych-DS compliant datasets that serve as references and templat
 Source for our (readthedocs) documentation website, built with MkDocs.
 
 You can access the documentation website at [https://psychds-docs.readthedocs.io/en/latest/](https://psychds-docs.readthedocs.io/en/latest/)
+
+### [psychds-ideas](https://github.com/psych-ds/psychds-ideas/)
+This is a dedicated repository for discussing new tools/ideas/things that don't have their own repository yet. If you have a question and aren't sure where to ask it, ask it here!
