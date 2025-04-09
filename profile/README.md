@@ -20,7 +20,7 @@ A user-friendly web interface for the validator, built with [Deno Fresh](https:/
 - Detailed feedback and troubleshooting for errors, warnings, and best practices
 - No file uploads required, all validation is done within the browser
 
-[_Available here:_](https://psych-ds.github.io/validator/)
+You can access the browser validator at [https://psych-ds.github.io/validator/](https://psych-ds.github.io/validator/)
 
 ### [example-datasets](https://github.com/psych-ds/example-datasets)
 A collection of Psych-DS compliant datasets that serve as references and templates for the community.
@@ -28,4 +28,4 @@ A collection of Psych-DS compliant datasets that serve as references and templat
 ### [psychds-docs](https://github.com/psych-ds/psychds-docs)
 Source for our (readthedocs) documentation website, built with MkDocs.
 
-[_Available here:_](https://psychds-docs.readthedocs.io/en/latest/)
+You can access the documentation website at [https://psychds-docs.readthedocs.io/en/latest/](https://psychds-docs.readthedocs.io/en/latest/)
